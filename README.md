@@ -5,7 +5,7 @@
 [![License: MIT][license_badge]][license_link]
 
 
-1/300 algorithms are implemented.
+2/300 algorithms are implemented.
 
 These implementations are for learning purposes. They may not be efficient, but PRs are always welcome.
 
